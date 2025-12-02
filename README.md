@@ -4,7 +4,7 @@ Analyzing how tidal stage influences fish abundance across Rhode Island estuarin
 Simplified workflow for my Fish-tides-analysis-project:  
 
 
-data_raw/    Unaltered input data (not public)
+data_raw/    Unaltered input data (not public)  
 &nbsp;    fish_raw.csv  
 &nbsp;    tides_raw.csv  
 
